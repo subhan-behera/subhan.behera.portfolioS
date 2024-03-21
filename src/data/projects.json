@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Library Management System",
+    "imageSrc": "projects/lms.jpg",
+    "description": "A library management software where admin can add/view/delete librarian and librarian can add/view books, issue, view issued books and return books.",
+    "skills": ["HTML", "CSS", "Bootstrap", "Servlet", "MySQL"],
+    "demo": "https://www.linkedin.com/in/subhan-behera-3ab2b5282/",
+    "source": "https://github.com/subhan8018/"
+  },
+  {
+    "title": "Hotel Management System",
+    "imageSrc": "projects/hotel.png",
+    "description": "Develop a Hotel Management System web application using HTML, CSS, and JavaScript to streamline reservations, guest services, and administrative tasks.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.linkedin.com/in/subhan-behera-3ab2b5282/",
+    "source": "https://github.com/subhan8018/"
+  },
+  {
+    "title": "Porfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Dynamic portfolio showcasing innovative projects, built using React for front-end interactivity and Express/Node for robust back-end functionality.",
+    "skills": ["React", "Express", "Node", "CSS", "HTML"],
+    "demo": "https://www.linkedin.com/in/subhan-behera-3ab2b5282/",
+    "source": "https://github.com/subhan8018/"
+  },
+  {
+    "title": "ECommerce Website",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Design a modern eCommerce website UI in Figma with intuitive navigation, visually appealing product displays, and user-friendly checkout process for enhanced shopping experience.",
+    "skills": ["UI Design", "Figma"],
+    "demo": "https://www.linkedin.com/in/subhan-behera-3ab2b5282/",
+    "source": "https://github.com/subhan8018/"
+  },
+  {
+    "title": "Banking Management System",
+    "imageSrc": "projects/banking.png",
+    "description": " Developed a comprehensive Banking Management System in Java with Swing GUI for efficient and user-friendly banking operations and transactions.",
+    "skills": ["Swing", "Java", "AWT", "MySQL"],
+    "demo": "https://www.linkedin.com/in/subhan-behera-3ab2b5282/",
+    "source": "https://github.com/subhan8018/"
+  },
+  {
+    "title": "Youtube Clone",
+    "imageSrc": "projects/youtube-clone.jpg",
+    "description": "Create a YouTube clone leveraging React, Express, and Node.js, combining dynamic front-end features with a robust back-end infrastructure for seamless video sharing and viewing experience.",
+    "skills": ["React", "Node", "CSS", "HTML","API"],
+    "demo": "https://www.linkedin.com/in/subhan-behera-3ab2b5282/",
+    "source": "https://github.com/subhan8018/"
+  }
+]

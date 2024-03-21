@@ -1,0 +1,29 @@
+[
+  {
+    "role": "MERN Stack Developer",
+    "organisation": "WSA",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on HomelyHub Project", "Reduced load times by 50%"],
+    "imageSrc": "history/wsa.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "CodSoft",
+    "startDate": "Oct, 2023",
+    "endDate": "Dec, 2024",
+    "experiences": ["Worked on Projects", "Designed dynamic web projects"],
+    "imageSrc": "history/codsoft.jpg"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Bharat Intern",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": [
+      "Worked on Projects",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/bharat.png"
+  }
+]
